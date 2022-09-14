@@ -1,0 +1,27 @@
+{
+  "version": "3.66.28355.0",
+  "course_id": "6Ol7hvOtSFx_course_id",
+  "title": "contract or grant dragndrop",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Untitled Scene"
+    }
+  ],
+  "slides": [
+    {
+      "id": "5qbxYYJuCIb",
+      "title": "Drag and Drop",
+      "scene_index": "1.1"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 980,
+    "height": 611
+  },
+  "stage": {
+    "width": 960,
+    "height": 540
+  }
+}
